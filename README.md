@@ -1,6 +1,8 @@
 # merge-solo
 1. this
 2. is
-3. great
-4. text
+3. some
+4. great
+5. text
+
 
